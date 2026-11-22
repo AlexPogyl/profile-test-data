@@ -2,7 +2,7 @@
   "meta": {
     "title": "Онлайн-тест для выбора профиля обучения",
     "subtitle": "Профориентационный тест для учащихся 8–11 классов",
-    "timeLimitMinutes": 12,
+    "timeLimitMinutes": 15,
     "ageMark": "12+",
     "version": "1.0",
     "updatedAt": "2026-11-22",
@@ -21,7 +21,8 @@
       "repo": "AlexPogyl/profile-test-data",
       "branch": "main",
       "path": "data.json",
-      "actionUrl": "https://github.com/AlexPogyl/profile-test-data/actions"
+      "actionUrl": "https://github.com/AlexPogyl/profile-test-data/actions",
+      "revision": 1795374873711
     }
   },
   "directions": [
