@@ -23,7 +23,8 @@
       "path": "data.json",
       "actionUrl": "https://github.com/AlexPogyl/profile-test-data/actions",
       "revision": 1795374873711
-    }
+    },
+    "timerEnabled": false
   },
   "directions": [
     {
