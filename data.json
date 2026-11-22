@@ -21,8 +21,7 @@
       "repo": "AlexPogyl/profile-test-data",
       "branch": "main",
       "path": "data.json",
-      "actionUrl": "https://github.com/AlexPogyl/profile-test-data/actions",
-      "revision": 1795373934455
+      "actionUrl": "https://github.com/AlexPogyl/profile-test-data/actions"
     }
   },
   "directions": [
